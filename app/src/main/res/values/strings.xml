@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="app_initial_message">Construção de Dev Android em andamento</string>
+
 </resources>
